@@ -1,0 +1,37 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,Region
+ORD001,2026-01-03,Laptop,Electronics,2,85000,Karachi
+ORD002,2026-01-04,Mouse,Accessories,5,1200,Lahore
+ORD003,2026-01-05,Office Chair,Furniture,2,18500,Islamabad
+ORD004,2026-01-06,Keyboard,Accessories,3,2500,Karachi
+ORD005,2026-01-08,Monitor,Electronics,1,42000,Lahore
+ORD006,2026-01-10,Desk,Furniture,1,28000,Islamabad
+ORD007,2026-01-11,Laptop,Electronics,1,85000,Karachi
+ORD008,2026-01-13,Mouse,Accessories,10,1150,Karachi
+ORD009,2026-01-15,Printer,Electronics,2,32000,Lahore
+ORD010,2026-01-16,Office Chair,Furniture,3,18000,Karachi
+ORD011,2026-01-18,Keyboard,Accessories,4,2400,Islamabad
+ORD012,2026-01-20,Desk,Furniture,2,27500,Lahore
+ORD013,2026-01-22,Monitor,Electronics,2,41500,Karachi
+ORD014,2026-01-24,Mouse,Accessories,8,1200,Islamabad
+ORD015,2026-01-25,Printer,Electronics,1,32500,Karachi
+ORD016,2026-01-27,Laptop,Electronics,1,87000,Lahore
+ORD017,2026-01-28,Office Chair,Furniture,2,19000,Lahore
+ORD018,2026-01-30,Desk,Furniture,1,29000,Karachi
+ORD019,2026-02-01,Monitor,Electronics,1,43000,Islamabad
+ORD020,2026-02-03,Keyboard,Accessories,6,2300,Lahore
+ORD021,2026-02-05,Mouse,Accessories,12,1100,Karachi
+ORD022,2026-02-06,Printer,Electronics,1,31000,Islamabad
+ORD023,2026-02-08,Laptop,Electronics,2,84000,Karachi
+ORD024,2026-02-10,Desk,Furniture,1,30000,Lahore
+ORD025,2026-02-12,Webcam,Electronics,3,4500,Karachi
+ORD004,2026-01-06,Keyboard,Accessories,3,2500,Karachi
+ORD026,2026-02-14,Webcam,Electronics,2,4500, Lahore 
+ORD027,2026-02-30,Headset,Accessories,2,3500,Karachi
+ORD028,2026-02-16,Mouse,Accessories,,1200,Lahore
+ORD029,2026-02-17,Monitor,Electronics,1,,Islamabad
+ORD030,2026-02-18,Desk,Furniture,-2,28000,Karachi
+ORD031,2026-02-19,Keyboard,Accessories,2,N/A,Lahore
+ORD032,2026-02-20,  mouse  , accessories ,4,1250, KARACHI 
+,2026-02-21,Printer,Electronics,1,30000,Lahore
+ORD034,2026-02-22,Laptop,Electronics,1,86000,
+ORD035,2026-02-23,Mouse,Accessories,3,0,Islamabad
